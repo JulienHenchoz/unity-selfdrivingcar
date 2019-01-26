@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2afa897f3499444a81c85cf198f16c5, type: 3}
+  m_Name: AccelerateState
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: efe25850b4f454a63949832ba850af07, type: 2}
+  transitions: []
